@@ -236,6 +236,8 @@ nav a:hover{
 }
 .venue{
     padding: 30px;
+    text-align: center;
+    align-items: center;
 }
 .el1{
     height: 100vh;
@@ -278,7 +280,10 @@ nav a:hover{
     width: 100%;
     animation: slideLeftToRight 1s ease-in-out;
   }
-
+.maps{
+    align-items: center;
+    width:fit-content;
+}
 
   @keyframes slideLeftToRight {
     from {
