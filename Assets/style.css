@@ -325,6 +325,8 @@ nav a:hover{
     .bansal{
         height: 240px;
     }
+    #navbar ul li a{
+        width: fit-content;}
     
 }
 @media (min-width:800px) {
